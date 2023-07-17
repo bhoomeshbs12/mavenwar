@@ -64,7 +64,7 @@ https://sonarcloud.io
 						<configuration>
 							<rules>
 								<requireJavaVersion>
-									<version>[1.8,)</version>
+									<version>[17.0,)</version>
 								</requireJavaVersion>
 							</rules>
 						</configuration>
